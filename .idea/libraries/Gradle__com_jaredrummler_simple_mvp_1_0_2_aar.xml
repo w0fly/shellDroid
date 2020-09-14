@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.jaredrummler:simple-mvp:1.0.2@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/simple-mvp-1.0.2.aar/53e6556f9d1de0e720aeb286acb9a5cd/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/simple-mvp-1.0.2.aar/53e6556f9d1de0e720aeb286acb9a5cd/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jaredrummler/simple-mvp/1.0.2/54533a7cfc8d788ff2ec5e223df3e3b26a9aa86/simple-mvp-1.0.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
